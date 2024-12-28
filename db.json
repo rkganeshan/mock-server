@@ -8,7 +8,111 @@
     "presentAddress": "San Jose, California, USA",
     "permanentAddress": "San Jose, California, USA",
     "city": "San Jose",
-    "postalCode": "45962",
+    "postalCode": "459623",
     "country": "USA"
+  },
+  "dashboard": {
+    "cards": [
+      {
+        "balance": "$5,756",
+        "cardHolder": "Eddy Cusuma",
+        "validThru": "12/25",
+        "cardNumber": "3778 **** **** 1234",
+        "theme": "dark"
+      },
+      {
+        "balance": "$2,881",
+        "cardHolder": "Mark Waugh",
+        "validThru": "06/29",
+        "cardNumber": "7782 **** **** 9982",
+        "theme": "light"
+      },
+      {
+        "balance": "$4971",
+        "cardHolder": "Michael Brown",
+        "validThru": "07/23",
+        "cardNumber": "8843 **** **** 4335",
+        "theme": "dark"
+      },
+      {
+        "balance": "$4966",
+        "cardHolder": "David Lee",
+        "validThru": "11/23",
+        "cardNumber": "4432 **** **** 8284",
+        "theme": "light"
+      },
+      {
+        "balance": "$1677",
+        "cardHolder": "Sarah Jones",
+        "validThru": "02/24",
+        "cardNumber": "7885 **** **** 2371",
+        "theme": "dark"
+      }
+    ],
+    "transactions": [
+      {
+        "title": "Debit from my Card",
+        "date": "28 January 2024",
+        "amount": "-$850",
+        "type": "debit"
+      },
+      {
+        "title": "Deposit Paypal",
+        "date": "25 January 2024",
+        "amount": "+$2,500",
+        "source": "paypal",
+        "type": "credit"
+      },
+      {
+        "title": "Jemi Wilson",
+        "date": "20 January 2024",
+        "amount": "+$5,400",
+        "type": "credit"
+      },
+      {
+        "title": "Steve Smith",
+        "date": "19 January 2021",
+        "amount": "+$5,400",
+        "source": "paypal",
+        "type": "credit"
+      },
+      {
+        "title": "Tom Pat",
+        "date": "18 January 2021",
+        "amount": "+$5,400",
+        "type": "credit"
+      }
+    ],
+    "weekly": {
+      "Sat": { "deposit": 400, "withdraw": 500 },
+      "Sun": { "deposit": 300, "withdraw": 200 },
+      "Mon": { "deposit": 200, "withdraw": 300 },
+      "Tue": { "deposit": 500, "withdraw": 400 },
+      "Wed": { "deposit": 300, "withdraw": 200 },
+      "Thu": { "deposit": 400, "withdraw": 300 },
+      "Fri": { "deposit": 300, "withdraw": 400 }
+    },
+    "statistics": {
+      "Entertainment": 30,
+      "Investment": 20,
+      "Bill Expense": 35,
+      "Others": 15
+    },
+    "transfer": [
+      { "name": "Livia Bator", "role": "CEO" },
+      { "name": "Randy Press", "role": "Director" },
+      { "name": "Workman", "role": "Designer" },
+      { "name": "John Doe", "role": "Manager" },
+      { "name": "Jane Smith", "role": "Developer" }
+    ],
+    "history": {
+      "Jul": 200,
+      "Aug": 600,
+      "Sep": 300,
+      "Oct": 450,
+      "Nov": 250,
+      "Dec": 550,
+      "Jan": 700
+    }
   }
 }
