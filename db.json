@@ -101,9 +101,9 @@
     "transfer": [
       { "name": "Livia Bator", "role": "CEO" },
       { "name": "Randy Press", "role": "Director" },
-      { "name": "Workman", "role": "Designer" },
-      { "name": "John Doe", "role": "Manager" },
-      { "name": "Jane Smith", "role": "Developer" }
+      { "name": "Robert Jacob", "role": "Designer" },
+      { "name": "John Doe", "role": "Designer" },
+      { "name": "Jane Smith", "role": "Designer" }
     ],
     "history": {
       "Jul": 200,
