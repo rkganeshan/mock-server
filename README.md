@@ -4,8 +4,8 @@ Assumption: Node 16 or higher is a pre-requisite. Visit https://nodejs.org/en to
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rkganeshan/soar-mock-serve.git
-   cd soar-mock-server
+   git clone https://github.com/rkganeshan/mock-server.git
+   cd mock-server
    ```
 
 2. Install dependencies:
