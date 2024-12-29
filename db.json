@@ -51,16 +51,16 @@
     ],
     "transactions": [
       {
-        "title": "Debit from my Card",
-        "date": "28 January 2024",
-        "amount": "-$850",
-        "type": "debit"
-      },
-      {
         "title": "Deposit Paypal",
         "date": "25 January 2024",
         "amount": "+$2,500",
         "source": "paypal",
+        "type": "credit"
+      },
+      {
+        "title": "Tom Pat",
+        "date": "18 January 2021",
+        "amount": "+$5,400",
         "type": "credit"
       },
       {
@@ -70,16 +70,16 @@
         "type": "credit"
       },
       {
+        "title": "Debit from my Card",
+        "date": "28 January 2024",
+        "amount": "-$850",
+        "type": "debit"
+      },
+      {
         "title": "Steve Smith",
         "date": "19 January 2021",
         "amount": "+$5,400",
         "source": "paypal",
-        "type": "credit"
-      },
-      {
-        "title": "Tom Pat",
-        "date": "18 January 2021",
-        "amount": "+$5,400",
         "type": "credit"
       }
     ],
